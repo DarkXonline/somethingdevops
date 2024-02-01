@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>randomimages</finalName>
+    <finalName>dockeransible</finalName>
   </build>
 </project>
