@@ -8,11 +8,7 @@
         state: present
     - name: Install docker
       apt:
-        name: docker
-        state: present
-    - name: Install docker-compose
-      apt:
-        name: docker-compose
+        name: docker.io
         state: present
     - name: start docker
       service:
