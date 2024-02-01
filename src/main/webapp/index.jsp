@@ -16,9 +16,9 @@
     <%-- Java code to generate random image URLs --%>
     <% 
         String[] imageUrls = {
-            "image1.jpg",
-            "image2.jpg",
-            "image3.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/13/12/52/kuala-lumpur-1820944_1280.jpg",
+            "https://cdn.pixabay.com/photo/2013/08/09/05/58/kuala-lumpur-170985_640.jpg",
+            "https://img.veenaworld.com/wp-content/uploads/2023/09/10-Fantastic-Places-To-Visit-in-Kuala-Lumpur.jpg",
             // Add more image URLs as needed
         };
 
